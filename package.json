@@ -1,0 +1,22 @@
+{
+    "name": "geojs",
+    "version": "0.1.0",
+    "author": "Björn Harrtell <bjorn@wololo.org>",
+    "description": "Node JS based backend and client framework for GIS web applications",
+    "homepage": "https://github.com/bjornharrtell/geojs",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bjornharrtell/geojs.git"
+    },
+    "dependencies": {
+        "postgresql-http-server": "*",
+        "coffee-script": "*",
+        "optimist": "*",
+        "express": "*",
+        "passport": "*"
+    },
+    "engines": {
+        "node": ">= 0.8.0"
+    },
+    "license": "MIT"
+}
